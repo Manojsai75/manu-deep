@@ -9,3 +9,15 @@
     width: 100px;
     height: 450px;
 }
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+  }
+  
+  .card {
+    height: 580px;
+    width: 480px;
+    border-radius: 15px;
+  }
+  
