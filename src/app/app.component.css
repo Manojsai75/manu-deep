@@ -1,0 +1,11 @@
+.btn {
+    float: right;
+}
+
+#my-div {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    width: 100px;
+    height: 450px;
+}
